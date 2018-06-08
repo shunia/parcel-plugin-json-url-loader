@@ -1,0 +1,11 @@
+{
+  "name": "parcel-plugin-json-url-loader",
+  "version": "0.0.1",
+  "main": "./lib/index.js",
+  "author": "shunia<me@qfhuang.pw>",
+  "description": "Output parcel's json files as urls, rather than bundled strings",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.8.1"
+  }
+}
