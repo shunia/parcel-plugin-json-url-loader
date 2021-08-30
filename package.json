@@ -3,6 +3,10 @@
   "version": "0.1.2",
   "main": "./lib/index.js",
   "author": "shunia<me@qfhuang.pw>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shunia/parcel-plugin-json-url-loader.git",
+  },
   "description": "Output parcel's json files as urls, rather than bundled strings",
   "license": "MIT",
   "devDependencies": {
